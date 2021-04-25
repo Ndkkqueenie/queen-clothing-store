@@ -1,7 +1,7 @@
 # Queen Clothing Store
 
-This project is a Boutique online clothing store inspired by [W3Schools html template](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_clothing_store&stacked=h).
-It was Bootstrap with [Vite + Vue](https://github.com/vitejs/vite).
+This project is a Boutique online clothing store, design inspired by [W3Schools html template](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_clothing_store&stacked=h).
+It was built with [Vite + Vue](https://github.com/vitejs/vite) project developed by Queendalin Ezenwa.
 
 ## Available Scripts
 
